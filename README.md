@@ -1,2 +1,50 @@
-# AstroSuite---DCS
-The complete set of tools to optimize performance, manage storage, and creation Radio Menu in DCS World.
+# 🚀 AstroSuite - DCS v.1.06
+
+[English Version](#english) | [Ελληνική Έκδοση](#ελληνικά)
+
+---
+
+<a name="english"></a>
+## 🇺🇸 English Version
+
+### Description
+**AstroSuite - DCS** is a comprehensive open-source toolset designed exclusively for **Digital Combat Simulator (DCS World)** pilots. Its purpose is to optimize simulator performance, manage storage space, and simplify mission creation.
+
+### 🛠️ Included Applications
+
+* **🧹 CLEAR TRASH - DCS (v.1.12):** Automatically deletes temporary cache folders (`fxo`, `metashaders2`), old logs, and tracks. Eliminates stutters and fixes visual bugs after game or driver updates.
+* **🗺️ MOVING MAP - DCS (v.3.3.2):** Manages DCS terrain storage. It moves bulky map folders to another drive (e.g., HDD or larger NVMe) using **Symbolic Links (Symlinks)** without affecting game functionality.
+* **💾 PERSISTENCE MANAGER - DCS (v.1.4):** Manages mission scripting environment by enabling/disabling the de-sanitization of `MissionScripting.lua`. Allows advanced scripts to save progress to external files.
+* **🎙️ RADIO MENU CREATOR - DCS (v.2.03):** A GUI tool for mission designers to quickly create custom radio menus (F10 Menu) without manual LUA coding.
+
+### 🚀 Installation & Usage
+1.  **Download:** Get the latest version from [Releases].
+2.  **Folder Structure:** Place the application executables inside a subfolder named `Applications`.
+3.  **Permissions:** Run `AstroSuite.exe` as **Administrator** to ensure Symlinks and file cleanup work correctly.
+
+---
+
+<a name="ελληνικά"></a>
+## 🇬🇷 Ελληνική Έκδοση
+
+### Περιγραφή
+Το **AstroSuite - DCS** είναι μια ολοκληρωμένη σουίτα εργαλείων ανοιχτού κώδικα, σχεδιασμένη αποκλειστικά για τους πιλότους του **Digital Combat Simulator (DCS World)**. Σκοπός της είναι η βελτιστοποίηση της απόδοσης, η διαχείριση του αποθηκευτικού χώρου και η απλοποίηση της δημιουργίας αποστολών.
+
+### 🛠️ Περιλαμβανόμενες Εφαρμογές
+
+* **🧹 CLEAR TRASH - DCS (v.1.12):** Διαγράφει αυτόματα φακέλους προσωρινής αποθήκευσης (`fxo`, `metashaders2`), παλιά logs και tracks. Εξαλείφει τα stutters και διορθώνει οπτικά σφάλματα μετά από updates.
+* **🗺️ MOVING MAP - DCS (v.3.3.2):** Διαχειριστής χώρου για τους χάρτες του DCS. Μεταφέρει τους ογκώδεις φακέλους σε άλλο δίσκο χρησιμοποιώντας **Symbolic Links (Symlinks)**, απελευθερώνοντας χώρο στον κεντρικό SSD.
+* **💾 PERSISTENCE MANAGER - DCS (v.1.4):** Διαχειρίζεται το de-sanitization του αρχείου `MissionScripting.lua`. Επιτρέπει σε προηγμένα scripts αποστολών να αποθηκεύουν την πρόοδο της μάχης εξωτερικά.
+* **🎙️ RADIO MENU CREATOR - DCS (v.2.03):** Εργαλείο για δημιουργούς αποστολών που επιτρέπει τη γρήγορη σχεδίαση μενού ασυρμάτου (F10 Menu) χωρίς χειροκίνητη συγγραφή κώδικα LUA.
+
+### 🚀 Εγκατάσταση & Χρήση
+1.  **Λήψη:** Κατεβάστε την τελευταία έκδοση από τα [Releases].
+2.  **Δομή Φακέλων:** Τοποθετήστε τα `.exe` των εφαρμογών μέσα σε έναν υποφάκελο με όνομα `Applications`.
+3.  **Δικαιώματα:** Εκτελέστε το `AstroSuite.exe` ως **Διαχειριστής** (Administrator) για τη σωστή λειτουργία των Symlinks και του καθαρισμού.
+
+---
+
+## ⚖️ License & Copyright
+Developed for the **LOCK-ON GREECE** community.
+* **Developer:** =GR= Astr0
+* **Copyright:** 2025© All Rights Reserved.
