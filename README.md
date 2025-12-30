@@ -12,10 +12,10 @@
 
 ### 🛠️ Included Applications
 
-* **🧹 CLEAR TRASH - DCS (v.1.12):** Automatically deletes temporary cache folders (`fxo`, `metashaders2`), old logs, and tracks. Eliminates stutters and fixes visual bugs after game or driver updates.
-* **🗺️ MOVING MAP - DCS (v.3.3.2):** Manages DCS terrain storage. It moves bulky map folders to another drive (e.g., HDD or larger NVMe) using **Symbolic Links (Symlinks)** without affecting game functionality.
-* **💾 PERSISTENCE MANAGER - DCS (v.1.4):** Manages mission scripting environment by enabling/disabling the de-sanitization of `MissionScripting.lua`. Allows advanced scripts to save progress to external files.
-* **🎙️ RADIO MENU CREATOR - DCS (v.2.03):** A GUI tool for mission designers to quickly create custom radio menus (F10 Menu) without manual LUA coding.
+* **🧹 CLEAR TRASH - DCS:** Automatically deletes temporary cache folders (`fxo`, `metashaders2`), old logs, and tracks. Eliminates stutters and fixes visual bugs after game or driver updates.
+* **🗺️ MOVING MAP - DCS:** Manages DCS terrain storage. It moves bulky map folders to another drive (e.g., HDD or larger NVMe) using **Symbolic Links (Symlinks)** without affecting game functionality.
+* **💾 PERSISTENCE MANAGER - DCS:** Manages mission scripting environment by enabling/disabling the de-sanitization of `MissionScripting.lua`. Allows advanced scripts to save progress to external files.
+* **🎙️ RADIO MENU CREATOR - DCS:** A GUI tool for mission designers to quickly create custom radio menus (F10 Menu) without manual LUA coding.
 
 ### 🚀 Installation & Usage
 1.  **Download:** Get the latest version from [Releases].
@@ -32,10 +32,10 @@
 
 ### 🛠️ Περιλαμβανόμενες Εφαρμογές
 
-* **🧹 CLEAR TRASH - DCS (v.1.12):** Διαγράφει αυτόματα φακέλους προσωρινής αποθήκευσης (`fxo`, `metashaders2`), παλιά logs και tracks. Εξαλείφει τα stutters και διορθώνει οπτικά σφάλματα μετά από updates.
-* **🗺️ MOVING MAP - DCS (v.3.3.2):** Διαχειριστής χώρου για τους χάρτες του DCS. Μεταφέρει τους ογκώδεις φακέλους σε άλλο δίσκο χρησιμοποιώντας **Symbolic Links (Symlinks)**, απελευθερώνοντας χώρο στον κεντρικό SSD.
-* **💾 PERSISTENCE MANAGER - DCS (v.1.4):** Διαχειρίζεται το de-sanitization του αρχείου `MissionScripting.lua`. Επιτρέπει σε προηγμένα scripts αποστολών να αποθηκεύουν την πρόοδο της μάχης εξωτερικά.
-* **🎙️ RADIO MENU CREATOR - DCS (v.2.03):** Εργαλείο για δημιουργούς αποστολών που επιτρέπει τη γρήγορη σχεδίαση μενού ασυρμάτου (F10 Menu) χωρίς χειροκίνητη συγγραφή κώδικα LUA.
+* **🧹 CLEAR TRASH - DCS:** Διαγράφει αυτόματα φακέλους προσωρινής αποθήκευσης (`fxo`, `metashaders2`), παλιά logs και tracks. Εξαλείφει τα stutters και διορθώνει οπτικά σφάλματα μετά από updates.
+* **🗺️ MOVING MAP - DCS:** Διαχειριστής χώρου για τους χάρτες του DCS. Μεταφέρει τους ογκώδεις φακέλους σε άλλο δίσκο χρησιμοποιώντας **Symbolic Links (Symlinks)**, απελευθερώνοντας χώρο στον κεντρικό SSD.
+* **💾 PERSISTENCE MANAGER - DCS:** Διαχειρίζεται το de-sanitization του αρχείου `MissionScripting.lua`. Επιτρέπει σε προηγμένα scripts αποστολών να αποθηκεύουν την πρόοδο της μάχης εξωτερικά.
+* **🎙️ RADIO MENU CREATOR - DCS:** Εργαλείο για δημιουργούς αποστολών που επιτρέπει τη γρήγορη σχεδίαση μενού ασυρμάτου (F10 Menu) χωρίς χειροκίνητη συγγραφή κώδικα LUA.
 
 ### 🚀 Εγκατάσταση & Χρήση
 1.  **Λήψη:** Κατεβάστε την τελευταία έκδοση από τα [Releases].
