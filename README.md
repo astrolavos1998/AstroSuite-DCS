@@ -22,6 +22,8 @@
 2.  **Folder Structure:** Place the application executables inside a subfolder named `Applications`.
 3.  **Permissions:** Run `AstroSuite.exe` as **Administrator** to ensure Symlinks and file cleanup work correctly.
 
+
+**WARNING: The use of GCI version 5.06.lua is at your own risk.**
 ---
 
 <a name="ελληνικά"></a>
@@ -42,9 +44,10 @@
 2.  **Δομή Φακέλων:** Τοποθετήστε τα `.exe` των εφαρμογών μέσα σε έναν υποφάκελο με όνομα `Applications`.
 3.  **Δικαιώματα:** Εκτελέστε το `AstroSuite.exe` ως **Διαχειριστής** (Administrator) για τη σωστή λειτουργία των Symlinks και του καθαρισμού.
 
+
+**ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Η χρήση του GCI έκδοση 5.06.lua γίνεται με δική σας ευθύνη.**
 ---
 
 ## ⚖️ License & Copyright
-Developed for the **LOCK-ON GREECE** community.
-* **Developer:** =GR= Astr0
-* **Copyright:** 2025© All Rights Reserved.
+AstroSuite - DCS v.1.06® 2025© για την LOCK-ON GREECE από τον =GR= Astr0
+
