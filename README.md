@@ -8,7 +8,7 @@
 ## 🇺🇸 English Version
 
 ### NEW 02.01.2026 new version RADIO MENU CREATOR 2 - DCS v.2.19
-		* Fixed if it doesn't have a main menu or submenu to show the redio menu code correctly.
+		* Fixed if it doesn't have a main menu or submenu to show the radio menu code correctly.
 		* Added the ability to redo/undo up to 10 times forward/backward.
 
 ### Description
@@ -34,7 +34,7 @@
 ## 🇬🇷 Ελληνική Έκδοση
 
 ### ΝΕΑ 02.01.2026 νέα έκδοση RADIO MENU CREATOR 2 - DCS v.2.19
-		* Διορθώθηκε εάν δεν έχει κύριο μενού ή υπομενού για να εμφανίζεται σωστά ο κωδικός του redio menu.
+		* Διορθώθηκε εάν δεν έχει κύριο μενού ή υπομενού για να εμφανίζεται σωστά ο κωδικός του radio menu.
 		* Προστέθηκε η δυνατότητα επανάληψης/αναίρεσης έως και 10 φορές προς τα εμπρός/πίσω.
 		
 ### Περιγραφή
