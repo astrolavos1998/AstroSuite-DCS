@@ -1,4 +1,4 @@
-# 🚀 AstroSuite - DCS v.1.06
+# 🚀 AstroSuite - DCS v.1.07
 
 [English Version](#english) | [Ελληνική Έκδοση](#ελληνικά)
 
@@ -6,6 +6,10 @@
 
 <a name="english"></a>
 ## 🇺🇸 English Version
+
+### NEW 02.01.2026 new version RADIO MENU CREATOR 2 - DCS v.2.19
+		* Fixed if it doesn't have a main menu or submenu to show the redio menu code correctly.
+		* Added the ability to redo/undo up to 10 times forward/backward.
 
 ### Description
 **AstroSuite - DCS** is a comprehensive open-source toolset designed exclusively for **Digital Combat Simulator (DCS World)** pilots. Its purpose is to optimize simulator performance, manage storage space, and simplify mission creation.
@@ -29,6 +33,10 @@
 <a name="ελληνικά"></a>
 ## 🇬🇷 Ελληνική Έκδοση
 
+### ΝΕΑ 02.01.2026 νέα έκδοση RADIO MENU CREATOR 2 - DCS v.2.19
+		* Διορθώθηκε εάν δεν έχει κύριο μενού ή υπομενού για να εμφανίζεται σωστά ο κωδικός του redio menu.
+		* Προστέθηκε η δυνατότητα επανάληψης/αναίρεσης έως και 10 φορές προς τα εμπρός/πίσω.
+		
 ### Περιγραφή
 Το **AstroSuite - DCS** είναι μια ολοκληρωμένη σουίτα εργαλείων ανοιχτού κώδικα, σχεδιασμένη αποκλειστικά για τους πιλότους του **Digital Combat Simulator (DCS World)**. Σκοπός της είναι η βελτιστοποίηση της απόδοσης, η διαχείριση του αποθηκευτικού χώρου και η απλοποίηση της δημιουργίας αποστολών.
 
@@ -49,5 +57,5 @@
 ---
 
 ## ⚖️ License & Copyright
-AstroSuite - DCS v.1.06® 2025© για την LOCK-ON GREECE από τον =GR= Astr0
+AstroSuite - DCS v.1.07® 2025© για την LOCK-ON GREECE από τον =GR= Astr0
 
