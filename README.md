@@ -1,8 +1,5 @@
 # 🚀 AstroSuite - DCS v.1.08
-
-[English Version](#english) | [Ελληνική Έκδοση](#ελληνικά)
-
----
+[Ελληνική Έκδοση](#ελληνικά)
 
 <a name="english"></a>
 ## 🇺🇸 English Version
@@ -47,6 +44,7 @@
 
 **WARNING: Use of the applications is at your own risk.**
 ---
+English Version](#english)
 
 <a name="ελληνικά"></a>
 ## 🇬🇷 Ελληνική Έκδοση
