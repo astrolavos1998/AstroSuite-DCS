@@ -7,6 +7,12 @@
 <a name="english"></a>
 ## 🇺🇸 English Version
 
+## AstroSuite v.1.08
+* Εφαρμογές:
+    * Clear Trash:
+        * Καθαρίζει τα logs του DCS.
+        * Διαγράφει τα shaders.
+
 ### UPDATE:
 * ### NEW 02.01.2026 new version RADIO MENU CREATOR 2 - DCS v.2.19
 ** *** Fixed if it doesn't have a main menu or submenu to show the radio menu code correctly.
