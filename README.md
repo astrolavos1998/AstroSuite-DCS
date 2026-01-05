@@ -7,6 +7,23 @@
 <a name="english"></a>
 ## 🇺🇸 English Version
 
+## Update 05.01.2026
+* CLEAR TRASH - DCS v.1.16
+	* Add English and Greek language.
+	* Add Dark and Light Theme.
+* AstroSuite - DCS v.1.08
+	* Add GCI - DCS v.5.18 a lua script that simulates Ground-Controlled Interception (GCI) for DCS World Mission Editor.
+* MOVING MAP - DCS v.3.09
+	* Change application interface.
+	* Add English and Greek language.
+	* Add Dark and Light Theme.
+* DCS-PERSISTENCE v.2.04
+	* Change application interface.
+* RADIO MENU CREATOR 2 - DCS v.2.24
+	* Fix bag for save lua file.
+	* Add English and Greek language.
+	* Add Dark and Light Theme.
+
 ### Update 02.01.2026
 * RADIO MENU CREATOR 2 - DCS v.2.19
 	* Fixed if it doesn't have a main menu or submenu to show the radio menu code correctly.
@@ -34,9 +51,27 @@
 <a name="ελληνικά"></a>
 ## 🇬🇷 Ελληνική Έκδοση
 
-### ΝΕΑ 02.01.2026 νέα έκδοση RADIO MENU CREATOR 2 - DCS v.2.19
-		* Διορθώθηκε εάν δεν έχει κύριο μενού ή υπομενού για να εμφανίζεται σωστά ο κωδικός του radio menu.
-		* Προστέθηκε η δυνατότητα επανάληψης/αναίρεσης έως και 10 φορές προς τα εμπρός/πίσω.
+## Ενημέρωση 05.01.2026
+* CLEAR TRASH - DCS v.1.16
+	* Προσθέστε αγγλική και ελληνική γλώσσα.
+	* Προσθέστε σκοτεινό και ανοιχτό θέμα.
+* AstroSuite - DCS έκδοση 1.08
+	* Προσθέστε το GCI - DCS v.5.18 ένα σενάριο lua που προσομοιώνει την επίγεια ελεγχόμενη αναχαίτιση (GCI) για το DCS World Mission Editor.
+* ΚΙΝΟΥΜΕΝΟΣ ΧΑΡΤΗΣ - DCS v.3.09
+	* Αλλαγή διεπαφή εφαρμογής.
+	* Προσθέστε αγγλική και ελληνική γλώσσα.
+	* Προσθέστε σκοτεινό και ανοιχτό θέμα.
+* DCS-PERSISTENCE v.2.04
+	* Αλλαγή διεπαφή εφαρμογής.
+* RADIO MENU CREATOR 2 - DCS v.2.24
+	* Διορθώθηκε το bag στην αποθήκευση αρχείου lua.
+	* Προσθέστε αγγλική και ελληνική γλώσσα.
+	* Προσθέστε σκοτεινό και ανοιχτό θέμα.
+
+### Ενημέρωση 02.01.2026
+* RADIO MENU CREATOR 2 - DCS v.2.19
+	* Διορθώθηκε εάν δεν έχει κύριο μενού ή υπομενού για να εμφανίζεται σωστά ο κώδικας του radio menu.
+	* Προστέθηκε η δυνατότητα επανάληψης/αναίρεσης έως και 10 φορές μπρος/πίσω.
 		
 ### Περιγραφή
 Το **AstroSuite - DCS** είναι μια ολοκληρωμένη σουίτα εργαλείων ανοιχτού κώδικα, σχεδιασμένη αποκλειστικά για τους πιλότους του **Digital Combat Simulator (DCS World)**. Σκοπός της είναι η βελτιστοποίηση της απόδοσης, η διαχείριση του αποθηκευτικού χώρου και η απλοποίηση της δημιουργίας αποστολών.
