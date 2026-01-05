@@ -1,8 +1,8 @@
 # 🚀 AstroSuite - DCS v.1.08
-[Ελληνική Έκδοση](#ελληνικά)
+
 
 <a name="english"></a>
-## 🇺🇸 English Version
+## 🇺🇸 English Version	|	[Ελληνική Έκδοση](#ελληνικά)
 
 ## Update 05.01.2026
 * CLEAR TRASH - DCS v.1.16
@@ -44,10 +44,9 @@
 
 **WARNING: Use of the applications is at your own risk.**
 ---
-English Version](#english)
 
 <a name="ελληνικά"></a>
-## 🇬🇷 Ελληνική Έκδοση
+## 🇬🇷 Ελληνική Έκδοση	|	[English Version](#english)
 
 ## Ενημέρωση 05.01.2026
 * CLEAR TRASH - DCS v.1.16
