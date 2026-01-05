@@ -7,7 +7,7 @@
 <a name="english"></a>
 ## 🇺🇸 English Version
 
-## UPDATE 02.01.2026:
+### Update 02.01.2026
 * RADIO MENU CREATOR 2 - DCS v.2.19
 	* Fixed if it doesn't have a main menu or submenu to show the radio menu code correctly.
 	* Added the ability to redo/undo up to 10 times forward/backward.
