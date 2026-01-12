@@ -4,6 +4,15 @@
 <a name="english"></a>
 ## 🇺🇸 English Version	|	[Ελληνική Έκδοση](#ελληνικά)
 
+## Update 12.01.2026
+* RADIO MENU CREATOR 2 - DCS v.2.25
+	* Add buton "Load LUA file".
+	* One-Liners Support: You can paste several commands (c1, c2, c3...) on the exact same line and the program will recognize them all separately.
+	* Space Tolerance: Recognizes commands even if there is a space before the parenthesis (eg addCommand (...)) or between the commas.
+	* Automatic Correction of Orphaned Commands: If a command refers to a sub-menu that does not exist (eg sm1), the program automatically changes it to nil so that it appears normally in the RADIO MENU STRUCTURE.
+	* sm1/sm2 support: No longer limited to specific names (m1, m2). It reads any variable name you use in your LUA code.
+	* Improved TreeView: "Orphaned" commands now appear at the top of the tree instead of disappearing, so you can edit them immediately.
+
 ## Update 05.01.2026
 * CLEAR TRASH - DCS v.1.16
 	* Add English and Greek language.
@@ -48,6 +57,15 @@
 <a name="ελληνικά"></a>
 ## 🇬🇷 Ελληνική Έκδοση	|	[English Version](#english)
 
+## Ενημέρωση 12.01.2026
+* RADIO MENU CREATOR 2 - DCS v.2.25
+	* Προσθήκη κουμπιού "Load LUA file".
+	* Υποστήριξη One-Liners: Μπορείτε να επικολλήσετε πολλές εντολές (c1, c2, c3...) στην ίδια ακριβώς γραμμή και το πρόγραμμα θα τις αναγνωρίσει όλες ξεχωριστά.
+	* Space Tolerance: Αναγνωρίζει εντολές ακόμα κι αν υπάρχει κενό διάστημα πριν από την παρένθεση (π.χ. addCommand (...)) ή ανάμεσα στα κόμματα.
+	* Αυτόματη διόρθωση ορφανών εντολών: Εάν μια εντολή αναφέρεται σε υπομενού που δεν υπάρχει (π.χ. sm1), το πρόγραμμα την αλλάζει αυτόματα σε μηδέν ώστε να εμφανίζεται κανονικά στη ΔΟΜΗ ΜΕΝΟΥ ΡΑΔΙΟΦΩΝΟΥ.
+	* Υποστήριξη sm1/sm2: Δεν περιορίζεται πλέον σε συγκεκριμένα ονόματα (m1, m2). Διαβάζει οποιοδήποτε όνομα μεταβλητής χρησιμοποιείτε στον κωδικό LUA σας.
+	* Βελτιωμένο TreeView: Οι εντολές "Orphaned" εμφανίζονται τώρα στην κορυφή του δέντρου αντί να εξαφανίζονται, ώστε να μπορείτε να τις επεξεργαστείτε αμέσως.
+	
 ## Ενημέρωση 05.01.2026
 * CLEAR TRASH - DCS v.1.16
 	* Προστέθηκε αγγλική και ελληνική γλώσσα.
