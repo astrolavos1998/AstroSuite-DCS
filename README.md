@@ -1,4 +1,4 @@
-# 🚀 AstroSuite - DCS v.1.08
+# 🚀 AstroSuite - DCS v.1.09
 
 
 <a name="english"></a>
@@ -17,7 +17,7 @@
 * CLEAR TRASH - DCS v.1.16
 	* Add English and Greek language.
 	* Add Dark and Light Theme.
-* AstroSuite - DCS v.1.08
+* AstroSuite - DCS v.1.09
 	* Add GCI - DCS v.5.18 a lua script that simulates Ground-Controlled Interception (GCI) for DCS World Mission Editor.
 * MOVING MAP - DCS v.3.09
 	* Change application interface.
@@ -108,5 +108,5 @@
 ---
 
 ## ⚖️ License & Copyright
-AstroSuite - DCS v.1.08® 2025© for LOCK-ON GREECE by =GR= Astr0 with support Gemini AI
+AstroSuite - DCS v.1.09® 2025© for LOCK-ON GREECE by =GR= Astr0 with support Gemini AI
 
