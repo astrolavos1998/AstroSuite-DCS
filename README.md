@@ -1,8 +1,15 @@
-# 🚀 AstroSuite - DCS v.1.09
+# 🚀 AstroSuite - DCS v.1.10
 
 
 <a name="english"></a>
 ## 🇺🇸 English Version	|	[Ελληνική Έκδοση](#ελληνικά)
+
+## Update 17.01.2026
+* CLEAR TRASH - DCS v.1.18
+	*Automatic Hardware Detection (GPU Detection): The new version recognizes whether your system has an NVIDIA or AMD graphics card.
+	*Cleaning NVIDIA Shader Cache: Added function to automatically delete DXCache and GLCache folders (with try-except system for files in use).
+	*AMD Software Support: Add a special button to open the AMD software and display instructions for manual cache reset.
+	*New GUI.
 
 ## Update 12.01.2026
 * RADIO MENU CREATOR 2 - DCS v.2.25
@@ -56,6 +63,13 @@
 
 <a name="ελληνικά"></a>
 ## 🇬🇷 Ελληνική Έκδοση	|	[English Version](#english)
+
+## Ενημέρωση 17.01.2026
+* CLEAR TRASH - DCS v.1.18
+	*Αυτόματη ανίχνευση υλικού (Ανίχνευση GPU): Η νέα έκδοση αναγνωρίζει εάν το σύστημά σας διαθέτει κάρτα γραφικών NVIDIA ή AMD.
+	*Καθαρισμός NVIDIA Shader Cache: Προστέθηκε λειτουργία για αυτόματη διαγραφή φακέλων DXCache και GLCache (με το σύστημα try-except για αρχεία σε χρήση).
+	*Υποστήριξη λογισμικού AMD: Προσθέστε ένα ειδικό κουμπί για να ανοίξετε το λογισμικό AMD και να εμφανίσετε οδηγίες για μη αυτόματη επαναφορά της προσωρινής μνήμης.
+	*Νέο GUI.
 
 ## Ενημέρωση 12.01.2026
 * RADIO MENU CREATOR 2 - DCS v.2.25
