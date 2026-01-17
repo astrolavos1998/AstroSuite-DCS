@@ -5,13 +5,18 @@
 ## 🇺🇸 English Version	|	[Ελληνική Έκδοση](#ελληνικά)
 
 ## Update 17.01.2026
-* CLEAR TRASH - DCS v.1.18
+* CLEAR TRASH - DCS
+	* New version v.1.18
 	* Automatic Hardware Detection (GPU Detection): The new version recognizes whether your system has an NVIDIA (In another version it will also be for RADEON).
 	* Cleaning NVIDIA Shader Cache: Added function to automatically delete DXCache and GLCache folders (with try-except system for files in use).
 	* New GUI.
+* RADIO MENU CREATOR 2 - DCS
+	* New version v.2.26
+	* Now directly shows the radio menu changes in the "PREVIEW / PASTE LUA CODE:" section.
 
 ## Update 12.01.2026
-* RADIO MENU CREATOR 2 - DCS v.2.25
+* RADIO MENU CREATOR 2 - DCS
+	* New version v.2.25
 	* Add buton "Load LUA file".
 	* One-Liners Support: You can paste several commands (c1, c2, c3...) on the exact same line and the program will recognize them all separately.
 	* Space Tolerance: Recognizes commands even if there is a space before the parenthesis (eg addCommand (...)) or between the commas.
@@ -20,7 +25,8 @@
 	* Improved TreeView: "Orphaned" commands now appear at the top of the tree instead of disappearing, so you can edit them immediately.
 
 ## Update 05.01.2026
-* CLEAR TRASH - DCS v.1.16
+* CLEAR TRASH - DCS
+	* New version v.1.16
 	* Add English and Greek language.
 	* Add Dark and Light Theme.
 * AstroSuite - DCS v.1.09
@@ -29,7 +35,8 @@
 	* Change application interface.
 	* Add English and Greek language.
 	* Add Dark and Light Theme.
-* DCS-PERSISTENCE v.2.04
+* DCS-PERSISTENCE
+	* New version v.2.04
 	* Change application interface.
 * RADIO MENU CREATOR 2 - DCS v.2.24
 	* Fix bag for save lua file.
@@ -37,7 +44,8 @@
 	* Add Dark and Light Theme.
 
 ### Update 02.01.2026
-* RADIO MENU CREATOR 2 - DCS v.2.19
+* RADIO MENU CREATOR 2 - DCS
+	* New version v.2.19.
 	* Fixed if it doesn't have a main menu or submenu to show the radio menu code correctly.
 	* Added the ability to redo/undo up to 10 times forward/backward.
 
@@ -63,14 +71,21 @@
 <a name="ελληνικά"></a>
 ## 🇬🇷 Ελληνική Έκδοση	|	[English Version](#english)
 
+
+	
 ## Ενημέρωση 17.01.2026
-* CLEAR TRASH - DCS v.1.18
+* CLEAR TRASH - DCS
+	* Νέα έκδοση v.1.18
 	* Αυτόματη ανίχνευση υλικού (Ανίχνευση GPU): Η νέα έκδοση αναγνωρίζει εάν το σύστημά σας διαθέτει κάρτα γραφικών NVIDIA (Σε άλλη έκδοση θα είναι και για RADEON).
 	* Καθαρισμός NVIDIA Shader Cache: Προστέθηκε λειτουργία για αυτόματη διαγραφή φακέλων DXCache και GLCache (με το σύστημα try-except για αρχεία σε χρήση).
 	* Νέο GUI.
+* RADIO MENU CREATOR 2 - DCS
+	* Νέα έκδοση v.2.26
+	* Τώρα εμφανίζει άμεσα τις αλλαγές του radio menu στην ενότητα "ΠΡΟΕΠΙΣΚΟΠΗΣΗ / ΕΠΙΚΟΛΛΗΣΗ ΚΩΔΙΚΟΥ LUA:".
 
 ## Ενημέρωση 12.01.2026
-* RADIO MENU CREATOR 2 - DCS v.2.25
+* RADIO MENU CREATOR 2 - DCS
+	* Νέα έκδοση v.2.25
 	* Προσθήκη κουμπιού "Load LUA file".
 	* Υποστήριξη One-Liners: Μπορείτε να επικολλήσετε πολλές εντολές (c1, c2, c3...) στην ίδια ακριβώς γραμμή και το πρόγραμμα θα τις αναγνωρίσει όλες ξεχωριστά.
 	* Space Tolerance: Αναγνωρίζει εντολές ακόμα κι αν υπάρχει κενό διάστημα πριν από την παρένθεση (π.χ. addCommand (...)) ή ανάμεσα στα κόμματα.
@@ -79,7 +94,8 @@
 	* Βελτιωμένο TreeView: Οι εντολές "Orphaned" εμφανίζονται τώρα στην κορυφή του δέντρου αντί να εξαφανίζονται, ώστε να μπορείτε να τις επεξεργαστείτε αμέσως.
 	
 ## Ενημέρωση 05.01.2026
-* CLEAR TRASH - DCS v.1.16
+* CLEAR TRASH - DCS
+	* Νέα έκδοση v.1.16
 	* Προστέθηκε αγγλική και ελληνική γλώσσα.
 	* Προστέθηκε σκοτεινό και ανοιχτό θέμα.
 * AstroSuite - DCS έκδοση 1.08
@@ -96,7 +112,8 @@
 	* Προστέθηκε σκοτεινό και ανοιχτό θέμα.
 
 ### Ενημέρωση 02.01.2026
-* RADIO MENU CREATOR 2 - DCS v.2.19
+* RADIO MENU CREATOR 2 - DCS
+	* Νέα έκδοση v.2.19
 	* Διορθώθηκε εάν δεν έχει κύριο μενού ή υπομενού για να εμφανίζεται σωστά ο κώδικας του radio menu.
 	* Προστέθηκε η δυνατότητα επανάληψης/αναίρεσης έως και 10 φορές μπρος/πίσω.
 		
