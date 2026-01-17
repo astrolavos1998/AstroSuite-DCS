@@ -6,9 +6,8 @@
 
 ## Update 17.01.2026
 * CLEAR TRASH - DCS v.1.18
-	* Automatic Hardware Detection (GPU Detection): The new version recognizes whether your system has an NVIDIA or AMD graphics card.
+	* Automatic Hardware Detection (GPU Detection): The new version recognizes whether your system has an NVIDIA (In another version it will also be for RADEON).
 	* Cleaning NVIDIA Shader Cache: Added function to automatically delete DXCache and GLCache folders (with try-except system for files in use).
-	* AMD Software Support: Add a special button to open the AMD software and display instructions for manual cache reset.
 	* New GUI.
 
 ## Update 12.01.2026
@@ -66,9 +65,8 @@
 
 ## Ενημέρωση 17.01.2026
 * CLEAR TRASH - DCS v.1.18
-	* Αυτόματη ανίχνευση υλικού (Ανίχνευση GPU): Η νέα έκδοση αναγνωρίζει εάν το σύστημά σας διαθέτει κάρτα γραφικών NVIDIA ή AMD.
+	* Αυτόματη ανίχνευση υλικού (Ανίχνευση GPU): Η νέα έκδοση αναγνωρίζει εάν το σύστημά σας διαθέτει κάρτα γραφικών NVIDIA (Σε άλλη έκδοση θα είναι και για RADEON).
 	* Καθαρισμός NVIDIA Shader Cache: Προστέθηκε λειτουργία για αυτόματη διαγραφή φακέλων DXCache και GLCache (με το σύστημα try-except για αρχεία σε χρήση).
-	* Υποστήριξη λογισμικού AMD: Προσθέστε ένα ειδικό κουμπί για να ανοίξετε το λογισμικό AMD και να εμφανίσετε οδηγίες για μη αυτόματη επαναφορά της προσωρινής μνήμης.
 	* Νέο GUI.
 
 ## Ενημέρωση 12.01.2026
@@ -123,4 +121,3 @@
 
 ## ⚖️ License & Copyright
 AstroSuite - DCS v.1.09® 2025© for LOCK-ON GREECE by =GR= Astr0 with support Gemini AI
-
