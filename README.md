@@ -68,7 +68,7 @@
 ### 🚀 Installation & Usage
 1.  **Download:** Get the latest version from [Releases].
 2.  **Folder Structure:** Place the application executables inside a subfolder named `Applications`.
-3.  **Permissions:** Run `AstroSuite.exe` as **Administrator** to ensure Symlinks and file cleanup work correctly.
+3.  **Permissions:** Run `AstroSuite-DCS` as **Administrator** to ensure Symlinks and file cleanup work correctly.
 
 
 **WARNING: Use of the applications is at your own risk.**
@@ -149,4 +149,4 @@
 ---
 
 ## ⚖️ License & Copyright
-AstroSuite - DCS v.1.09® 2025© for LOCK-ON GREECE by =GR= Astr0 with support Gemini AI
+AstroSuite - DCS v.2® 2025© for LOCK-ON GREECE by =GR= Astr0 with support Gemini AI and Claude.
