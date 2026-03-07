@@ -67,8 +67,8 @@
 
 ### 🚀 Installation & Usage
 1.  **Download:** Get the latest version from [Releases].
-2.  **Folder Structure:** Place the application executables inside a subfolder named `Applications`.
-3.  **Permissions:** Run `AstroSuite-DCS` as **Administrator** to ensure Symlinks and file cleanup work correctly.
+2.  **Installation:** Run AstroSuiteInstall.exe and install application.
+3.  **Permissions:** Run shortcut `AstroSuite-DCS` as **Administrator** to ensure Symlinks and file cleanup work correctly.
 
 
 **WARNING: Use of the applications is at your own risk.**
@@ -141,8 +141,8 @@
 
 ### 🚀 Εγκατάσταση & Χρήση
 1.  **Λήψη:** Κατεβάστε την τελευταία έκδοση από τα [Releases].
-2.  **Δομή Φακέλων:** Τοποθετήστε τα `.exe` των εφαρμογών μέσα σε έναν υποφάκελο με όνομα `Applications`.
-3.  **Δικαιώματα:** Εκτελέστε το `AstroSuite.exe` ως **Διαχειριστής** (Administrator) για τη σωστή λειτουργία των Symlinks και του καθαρισμού.
+2.  **Εγκατάσταση:** Εκτελέστε το AstroSuiteInstall.exe και εγκαταστήστε την εφαρμογή.
+3.	**Δικαιώματα:** Εκτελέστε τη συντόμευση «AstroSuite-DCS» ως **Διαχειριστής** για να διασφαλίσετε ότι οι Σύνδεσμοι συμβόλων και η εκκαθάριση αρχείων λειτουργούν σωστά.
 
 
 **ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Η χρήση των εφαρμογών γίνεται με δική σας ευθύνη.**
