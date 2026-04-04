@@ -4,6 +4,11 @@
 <a name="english"></a>
 ## 🇺🇸 English Version	|	[Ελληνική Έκδοση](#ελληνικά)
 
+## Update 04.04.2026
+* AstroSuite - DCS
+        * New version v.3
+        * Added ability to disable/enable recording in DCS World and Tacview.
+
 ## Update 07.03.2026
 * AstroSuite - DCS
 	* New version v.2
@@ -77,7 +82,10 @@
 <a name="ελληνικά"></a>
 ## 🇬🇷 Ελληνική Έκδοση	|	[English Version](#english)
 
-
+## Ενημέρωση 04.04.2026
+* AstroSuite - DCS
+        * Νέα έκδοση v.3
+        * Προστέθηκε η δυνατότητα απενεργοποίησης/ενεργοποίησης εγγραφής σε DCS World και Tacview.
 
 ## Ενημέρωση 07.03.2026
 * AstroSuite - DCS
