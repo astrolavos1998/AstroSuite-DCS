@@ -7,7 +7,7 @@
 
 ## Update 05.07.2026
 * AstroSuite 4.0
-	* Added tool, Manager Mods.
+	* Added tool, Mods Manager.
 	* Fix some bugs.
   
 ## Update 04.04.2026
@@ -89,7 +89,7 @@
 
 ## Ενημέρωση 05.07.2026
 * AstroSuite 4.0
-	* Προστέθηκε το εργαλείο του Manager Mods.
+	* Προστέθηκε το εργαλείο του Mods Manager.
 	* Διορθώθηκαν ορισμένα σφάλματα.
   
 ## Ενημέρωση 04.04.2026
