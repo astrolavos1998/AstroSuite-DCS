@@ -1,8 +1,18 @@
-# 🚀 AstroSuite - DCS v.2
+# 🚀 AstroSuite 4.3
 
 
 <a name="english"></a>
 ## 🇺🇸 English Version	|	[Ελληνική Έκδοση](#ελληνικά)
+
+## Update 08.07.2026
+* AstroSuite 4.3
+        * Fix some bugs.
+	* More friendly environment.
+
+## Update 05.07.2026
+* AstroSuite 4.0
+        * Added tool, Mods Manager.
+        * Fix some bugs.
 
 ## Update 04.04.2026
 * AstroSuite - DCS
@@ -81,6 +91,16 @@
 
 <a name="ελληνικά"></a>
 ## 🇬🇷 Ελληνική Έκδοση	|	[English Version](#english)
+
+## Ενημέρωση 08.07.2026
+* AstroSuite 4.3
+        * Διορθώστε ορισμένα σφάλματα.
+	* Πιο φιλικό περιβάλλον.
+
+## Ενημέρωση 05.07.2026
+* AstroSuite 4.0
+        * Προστέθηκε εργαλείο, Mods Manager.
+        * Διορθώστε ορισμένα σφάλματα.
 
 ## Ενημέρωση 04.04.2026
 * AstroSuite - DCS
