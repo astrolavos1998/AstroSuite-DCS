@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 # 🚀 AstroSuite 4.3
+=======
+[README.md](https://github.com/user-attachments/files/26479613/README.md)
+# 🚀 AstroSuite 4.0
+>>>>>>> fd4e2b6186b778e3b0d74408813ef5462d2ad936
 
 
 <a name="english"></a>
 ## 🇺🇸 English Version	|	[Ελληνική Έκδοση](#ελληνικά)
 
+<<<<<<< HEAD
 ## Update 08.07.2026
 * AstroSuite 4.3
         * Fix some bugs.
@@ -18,6 +24,16 @@
 * AstroSuite - DCS
         * New version v.3
         * Added ability to disable/enable recording in DCS World and Tacview.
+=======
+## Update 05.07.2026
+* AstroSuite 4.0
+	* Added tool, Mods Manager.
+	* Fix some bugs.
+  
+## Update 04.04.2026
+* AstroSuite - DCS v.3
+	* Added ability to disable/enable recording in DCS World and Tacview.
+>>>>>>> fd4e2b6186b778e3b0d74408813ef5462d2ad936
 
 ## Update 07.03.2026
 * AstroSuite - DCS
@@ -92,6 +108,7 @@
 <a name="ελληνικά"></a>
 ## 🇬🇷 Ελληνική Έκδοση	|	[English Version](#english)
 
+<<<<<<< HEAD
 ## Ενημέρωση 08.07.2026
 * AstroSuite 4.3
         * Διορθώστε ορισμένα σφάλματα.
@@ -106,6 +123,16 @@
 * AstroSuite - DCS
         * Νέα έκδοση v.3
         * Προστέθηκε η δυνατότητα απενεργοποίησης/ενεργοποίησης εγγραφής σε DCS World και Tacview.
+=======
+## Ενημέρωση 05.07.2026
+* AstroSuite 4.0
+	* Προστέθηκε το εργαλείο του Mods Manager.
+	* Διορθώθηκαν ορισμένα σφάλματα.
+  
+## Ενημέρωση 04.04.2026
+* AstroSuite - DCS v.3
+	* Προστέθηκε η δυνατότητα απενεργοποίησης/ενεργοποίησης εγγραφής σε DCS World και Tacview.
+>>>>>>> fd4e2b6186b778e3b0d74408813ef5462d2ad936
 
 ## Ενημέρωση 07.03.2026
 * AstroSuite - DCS
