@@ -103,7 +103,6 @@
 
 **AstroSuite 4.5®  ·  2026©  ·  LOCK-ON GREECE  ·  by =GR= Astr0**
 *with support from Gemini AI & Claude AI*
-*🔗 https://github.com/astrolavos1998/AstroSuite-DCS*
 
 ---
 ---
@@ -205,4 +204,3 @@
 
 **AstroSuite 4.5®  ·  2026©  ·  LOCK-ON GREECE  ·  από =GR= Astr0**
 *με υποστήριξη από Gemini AI & Claude AI*
-*🔗 https://github.com/astrolavos1998/AstroSuite-DCS*
